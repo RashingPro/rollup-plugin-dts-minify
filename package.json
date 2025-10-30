@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-dts-minify",
   "description": "Small Rollup plugin that runs `dts-minify` on `.d.ts` declarations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "RashingPro",
     "url": "https://rashing.pro/",
@@ -43,7 +43,8 @@
   "files": [
     "package.json",
     "dist",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "dependencies": {
     "dts-minify": "^0.3.3",
