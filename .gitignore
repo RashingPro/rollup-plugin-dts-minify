@@ -1,0 +1,8 @@
+# Installed packages
+/node_modules
+
+# Build output
+/dist
+
+# Dotenv
+*.env
