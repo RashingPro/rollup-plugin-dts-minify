@@ -23,6 +23,6 @@ export default defineConfig([
         }
     },
     {
-        ignores: ["dist/*", "skeleton/*"]
+        ignores: ["dist/*"]
     }
 ]);
