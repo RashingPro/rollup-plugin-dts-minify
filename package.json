@@ -2,6 +2,26 @@
   "name": "rollup-plugin-dts-minify",
   "description": "Small Rollup plugin that runs `dts-minify` on `.d.ts` declarations",
   "version": "1.0.0",
+  "author": {
+    "name": "RashingPro",
+    "url": "https://rashing.pro/",
+    "email": "contact@rashing.pro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RashingPro/rollup-plugin-dts-minify.git"
+  },
+  "keywords": [
+    "rollup",
+    "rollup-plugin",
+    "typescript",
+    "minify"
+  ],
+  "bugs": {
+    "url": "https://github.com/RashingPro/rollup-plugin-dts-minify/issues",
+    "email": "contact@rashing.pro"
+  },
+  "license": "MIT",
   "type": "module",
   "packageManager": "pnpm@10.20.0",
   "types": "./dist/index.d.ts",
